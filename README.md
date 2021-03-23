@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Abdullahshk69
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning C++, python
+- 🌱 I’m currently learning C++, python.
+- I have mastered the use of databases, classes, algorithms and I am currently learning AI using Python.
 - 💞️ I’m looking to collaborate on multiple programs/softwares.
 - 📫 How to reach me; Discord: Abdullahshk#4536
 
