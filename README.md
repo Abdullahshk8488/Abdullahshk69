@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdullahshk69.
 - 👀 I am a game programmer.
-- 🌱 Intermediate at C++ and C#.
+- 🌱 Strong grip on C++ and C#.
 - ✨ I mainly use Unity for my game development.
 - 💞️ I’m down for collaborative work on a game.
 - 📫 How to reach me; Discord: abdullahshk
