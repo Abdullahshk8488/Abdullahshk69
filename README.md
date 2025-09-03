@@ -3,7 +3,7 @@
 - 🌱 Strong grip on C++ and C#.
 - ✨ I mainly use Unity for my game development.
 - 💞️ I’m down for collaborative work on a game.
-- 📫 How to reach me; Discord: abdullahshk
+- 📫 Feel free to reach me through my Discord: abdullahshk
 - 🎮 Let's have fun playing and creating games.
 
 <!---
